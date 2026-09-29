@@ -55,4 +55,4 @@ types/        Tipos do TypeScript
 
 ## Vídeo
 
-Link do vídeo: ________________________
+Link do vídeo: https://youtu.be/xB2THVwOjU0
